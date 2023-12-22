@@ -1,3 +1,3 @@
 # CODSOFT
 # DEC BATCH A21
-video has be provided within respective folders
+video has been provided within respective folders
